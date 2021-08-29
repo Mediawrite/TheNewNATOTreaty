@@ -1,4 +1,4 @@
-# TheNewNATOTreaty
+# The New NATO Treaty
 The new NATO treaty is a initiative of https://mediawrite.agency, a content agency in Bucharest. Romania. 
 
 It aims to unite all military forces of humanity under one international military treaty, that aims to start the World War III (against death).
