@@ -7,3 +7,5 @@ The project is a personal initiative and ment to be in honor of my ancestors who
 
 More about this profesional challange of Mediawrite (https://mediawrite.agency - the content agency singular throught its approach) can be found on a blog post (in Romanian language):
 https://contentpedia.online/agentia-de-content-mediawrite-anunta-semnarea-unui-contract-de-creatie-a-continutului-noului-tratat-de-pace-sau-razboi-nato/
+
+Has been published on github.com to be meant as a consultation point, forum or agora for public debates about the treaty at some point in the near future.
