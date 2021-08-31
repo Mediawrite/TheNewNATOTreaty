@@ -14,5 +14,5 @@ https://contentpedia.online/agentia-de-content-mediawrite-anunta-semnarea-unui-c
 
 
 Has been published on github.com to be meant as a consultation point, forum or agora for public debates about the treaty at some point in the near future.
-Follow project here http://connect.mediawrite.agency/ - please use hashtag #TheNewNATOTreaty in the comment.
+Follow project here http://connect.mediawrite.agency - please use hashtag #TheNewNATOTreaty in the comment.
 
