@@ -1,4 +1,4 @@
-# The New NATO Treaty #TheNewNATOTreaty
+# The New NATO Treaty
 
 The new NATO treaty is a initiative of https://mediawrite.agency, a content agency in Bucharest. Romania. 
 
