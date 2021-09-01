@@ -12,11 +12,9 @@ The project is a personal initiative and ment to be in honor of my ancestors who
 
 ### More info
 
-A video presenting the main call to funding for the project
-https://www.youtube.com/watch?v=_3t5-WUUPqE
+- A video presenting the main call to funding for the project: https://www.youtube.com/watch?v=_3t5-WUUPqE
 
-This is a profesional challange of Mediawrite (https://mediawrite.agency - the content agency singular throught its approach) can be found on a blog post (in Romanian language):
-https://contentpedia.online/agentia-de-content-mediawrite-anunta-semnarea-unui-contract-de-creatie-a-continutului-noului-tratat-de-pace-sau-razboi-nato/
+- This is a profesional challange of Mediawrite (https://mediawrite.agency - the content agency singular throught its approach) can be found on a blog post (in Romanian language): https://contentpedia.online/agentia-de-content-mediawrite-anunta-semnarea-unui-contract-de-creatie-a-continutului-noului-tratat-de-pace-sau-razboi-nato/
 
 
 
