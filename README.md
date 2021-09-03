@@ -6,7 +6,7 @@ It aims to unite all military forces of humanity under one international militar
 
 
 ### Motivation
-The project is a personal initiative and ment to be in honor of my ancestors who fought as dumb as shit mutherfuckers in World War I, World War II, and also in the Cold War as military technitians.
+The project is a personal initiative and ment to be in honor of my ancestors who fought as dumb as shit mutherfuckers in World War I, World War II, and also in the Cold War as military technicians.
 
 
 
