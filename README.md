@@ -13,7 +13,6 @@ The project is a personal initiative and ment to be in honor of my ancestors who
 
 ### More info
 
-- A video presenting the main call to funding for the project: 
 - https://www.youtube.com/watch?v=_3t5-WUUPqE
 - https://www.youtube.com/watch?v=vwqXKZ3ZSj0
 - https://www.youtube.com/watch?v=6ppFvFhzqcU
