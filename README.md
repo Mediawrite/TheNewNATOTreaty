@@ -18,6 +18,7 @@ The project is a personal initiative and ment to be in honor of my ancestors who
 - https://www.youtube.com/watch?v=6ppFvFhzqcU
 - https://www.youtube.com/watch?v=JWoXouHOrTE
 - https://www.youtube.com/watch?v=1doxgJasCWk
+- 
 
 
 - This is a profesional challange of Mediawrite (https://mediawrite.agency - the content agency singular throught its approach).
