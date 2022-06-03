@@ -29,8 +29,7 @@ These are the 5 missions of The Declaration of World War III (War Against Death)
 - Mission four https://youtu.be/1doxgJasCWk
 - Mission five https://youtu.be/AdTl7ea25es
 
-
-- This is a profesional challange of Mediawrite (https://mediawrite.agency - the content agency singular throught its approach).
+This is a profesional challange of Mediawrite (https://mediawrite.agency - the content agency singular throught its approach).
 
 
 ### Why was published here?
